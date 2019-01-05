@@ -14,7 +14,7 @@ sudo nano /etc/pacman.conf
 Add the following lines at the end:
 
 [archstrike]
-Server = https://mirror.archstrike.org/$arch/$repo
+Server = https://miroir.craftdestiny.ovh/archlinux-repo/
 
 Save and close the file.
 
